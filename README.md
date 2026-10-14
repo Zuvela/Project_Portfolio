@@ -1,4 +1,4 @@
-# Noa Žuvela – Engineering & Machine Learning Portfolio
+# Noa Žuvela – Mechatronics Engineering Portfolio
 
 This repository contains a selection of my projects in robotics, machine learning, and automated systems. My work focuses on integrating perception, decision-making, and physical systems to build intelligent, real-world solutions.
 
