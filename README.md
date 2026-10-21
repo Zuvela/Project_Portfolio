@@ -1,13 +1,14 @@
 # Noa Žuvela – Mechatronics Engineering Portfolio
 
-This repository contains a selection of my projects in robotics, machine learning, and automated systems. My work focuses on integrating perception, decision-making, and physical systems to build intelligent, real-world solutions.
+This repository contains a selection of my projects in robotics, machine learning, and automated systems. My work focuses on integration, decision-making, and physical systems to build intelligent, real-world solutions.
 
 ---
 
 ## About Me / Interests
 
-I am a Mechatronics Engineering student specializing in robotics and AI integration, with a strong interest in building intelligent systems that operate in real-world environments.
-My work combines machine learning, computer vision, and automation to solve practical engineering challenges.
+I am a Mechatronics Engineer who enjoys building, testing, and improving real-world systems.
+My work spans robotics, automation, embedded systems, computer vision, AI, and hardware-software integration, with a strong focus on practical engineering and problem-solving.
+I am especially interested in projects where software, electronics, and mechanics come together to create reliable and useful systems.
 
 ## Full Portfolio
 [View Portfolio (PDF)](https://github.com/Zuvela/Project_Portfolio/blob/main/Noa_Project_Portfolio_Updated.pdf)
@@ -70,7 +71,7 @@ Bachelor thesis focused on extracting rotational data from a constrained mechani
 PyTorch, CNNs, computer vision, model evaluation, data preprocessing  
 
 **Programming:**  
-Python, MATLAB, C/C++, Arduino  
+Python, MATLAB/Simulink, C/C++, Arduino  
 
 **Robotics & Automation:**  
 Robot arms, autonomous systems, hardware-in-the-loop testing  
