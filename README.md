@@ -10,7 +10,7 @@ I am a Mechatronics Engineering student specializing in robotics and AI integrat
 My work combines machine learning, computer vision, and automation to solve practical engineering challenges.
 
 ## Full Portfolio
-[View Portfolio (PDF)](https://github.com/Zuvela/Project_Portfolio/blob/main/Noa_Zuvela_Portfolio.pdf)
+[View Portfolio (PDF)](https://github.com/Zuvela/Project_Portfolio/blob/main/Noa_Project_Portfolio_Updated.pdf)
 
 ---
 
